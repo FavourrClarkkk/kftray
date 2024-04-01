@@ -1,20 +1,5 @@
 <div align="center">
-<img src="./img/logo.png" alt="KFtray Demo" width="200" />
-  <p>
-    <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_universal.dmg">
-      Download for macOS
-    </a> ·
-    <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_x64-setup.exe">
-      Download for Windows
-    </a> ·
-    <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_amd64.AppImage">
-      Download for Linux
-    </a>
-  </p>
-
-
-
-  <!-- Badges -->
+    <!-- Badges -->
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node-v21.5.0-brightgreen.svg" alt="Node.js version" />
   </a>
@@ -40,6 +25,21 @@
     <a href="https://github.com/hcavarsan/kftray">
     <img src="https://img.shields.io/github/all-contributors/hcavarsan/kftray" alt="contributors" />
   </a>
+<br/>
+<img src="./img/logo.png" alt="KFtray Demo" width="200" />
+  <p>
+    <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_universal.dmg">
+      Download for macOS
+    </a> ·
+    <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_x64-setup.exe">
+      Download for Windows
+    </a> ·
+    <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_amd64.AppImage">
+      Download for Linux
+    </a>
+  </p>
+
+
 <br/>
 
 
