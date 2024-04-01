@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/github/all-contributors/hcavarsan/kftray" alt="contributors" />
   </a>
 <br/>
-<img src="./img/logo.png" alt="KFtray Demo" width="200" />
+<img src="./img/logo.png" alt="KFtray Demo" width="256" />
   <p>
     <a href="https://github.com/hcavarsan/kftray/releases/latest/download/kftray_0.9.0_universal.dmg">
       Download for macOS
